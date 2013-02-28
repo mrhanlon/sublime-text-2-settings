@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CSSFormat",
+		"CSSTidy",
+		"Drupal Project Autocomplete",
+		"Drupal Snippets",
+		"FileDiffs",
+		"Git",
+		"jQuery Mobile Snippets",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Aqua",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Toggle Css Format"
+	]
+}
