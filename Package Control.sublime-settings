@@ -1,34 +1,11 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"CSS Snippets",
-		"CSSFormat",
 		"CSSTidy",
-		"Drupal",
-		"Drupal Project Autocomplete",
-		"Drupal Snippets",
-		"FileDiffs",
-		"Format SQL",
-		"Git",
-		"jQuery",
-		"jQuery Mobile Snippets",
-		"jQuery Snippets pack",
-		"JsFormat",
-		"Markdown Preview",
-		"MarkdownBuild",
-		"Package Control",
-		"Pretty JSON",
-		"Sass",
-		"SCSS",
-		"SCSS Snippets",
-		"SFTP",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"Tag",
-		"Theme - Aqua",
-		"Theme - Phoenix",
-		"Theme - Soda",
-		"Toggle Css Format"
+		"Package Control"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/testing/packages.json"
 	]
 }

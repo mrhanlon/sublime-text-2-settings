@@ -1,4 +1,4 @@
-sublime-text-2-settings
+sublime-text-3-settings
 =======================
 
-My Sublime Text 2 config
+My Sublime Text 3 config
