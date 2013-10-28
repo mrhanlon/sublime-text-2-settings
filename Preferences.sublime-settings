@@ -9,7 +9,10 @@
 	[
 		"Vintage"
 	],
-	"rulers": [80],
+	"rulers":
+	[
+		80
+	],
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
