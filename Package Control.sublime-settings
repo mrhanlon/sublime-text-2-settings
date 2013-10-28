@@ -1,8 +1,23 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"CSS Snippets",
+		"CSSFormat",
 		"CSSTidy",
-		"Package Control"
+		"FileDiffs",
+		"Format SQL",
+		"Git",
+		"HTMLBeautify",
+		"HtmlTidy",
+		"JsFormat",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"TidyHTML5"
 	],
 	"repositories":
 	[

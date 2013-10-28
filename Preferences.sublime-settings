@@ -1,7 +1,7 @@
 {
 	"auto_complete": true,
 	"bold_folder_labels": true,
-	"caret_style": "phase",
+	"caret_style": "blink",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"font_size": 12.0,
 	"highlight_line": true,
@@ -9,6 +9,7 @@
 	[
 		"Vintage"
 	],
+	"rulers": [80],
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
