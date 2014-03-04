@@ -7,7 +7,11 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"SideBarEnhancements",
+		"SFTP",
+		"Vintage",
+		"Sass",
+		"Tag"
 	],
 	"rulers":
 	[
