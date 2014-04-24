@@ -2,16 +2,19 @@
 	"auto_complete": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
 	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SideBarEnhancements",
-		"SFTP",
-		"Vintage",
 		"Sass",
-		"Tag"
+		"SFTP",
+		"SideBarEnhancements",
+		"Vintage",
+		"Tag",
+		"Drupal",
+		"Pretty JSON",
+		"HTMLBeautify"
 	],
 	"rulers":
 	[
