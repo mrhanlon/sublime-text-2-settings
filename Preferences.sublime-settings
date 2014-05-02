@@ -2,20 +2,19 @@
 	"auto_complete": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"theme": "Sodarized Dark 3.sublime-theme",
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
 	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"SideBarEnhancements",
+		"Tag",
+		"Drupal",
 		"Sass",
 		"SFTP",
-		"Drupal",
+		"HTMLBeautify",
 		"Vintage",
-		"Tag",
-		"SideBarEnhancements",
-		"Pretty JSON",
-		"HTMLBeautify"
+		"Pretty JSON"
 	],
 	"rulers":
 	[
@@ -23,6 +22,7 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
+	"theme": "Sodarized Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
