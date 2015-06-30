@@ -1,33 +1,19 @@
 {
-	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"CSS Snippets",
-		"CSSFormat",
+		"CSS Format",
 		"CSSTidy",
-		"Drupal",
-		"FileDiffs",
-		"Format SQL",
 		"Git",
-		"Google Spell Check",
-		"HTML-CSS-JS Prettify",
+		"GitGutter",
 		"HTMLBeautify",
-		"HtmlTidy",
-		"jQuery",
 		"JsFormat",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
-		"Sass",
-		"SCSS",
-		"SFTP",
 		"SideBarEnhancements",
-		"Solarized Color Scheme",
-		"Theme - Sodarized",
-		"TidyHTML5"
-	],
-	"repositories":
-	[
-		"https://sublime.wbond.net/testing/packages.json"
+		"Theme - Soda SolarizedDark"
 	]
 }
