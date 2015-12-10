@@ -18,7 +18,7 @@
 		90
 	],
 	"save_on_focus_lost": true,
-	"scroll_past_end": false,
+	"scroll_past_end": true,
 	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
