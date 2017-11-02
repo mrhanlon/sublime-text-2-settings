@@ -1,0 +1,8 @@
+{
+  "translate_tabs_to_spaces": false,
+  "open_tasks_bullet": "-",
+  "done_tasks_bullet": "-",
+  "cancelled_tasks_bullet": "-",
+  "color_scheme": "Packages/PlainTasks/tasks-solarized-dark.hidden-tmTheme",
+  "date_format": "(%Y-%m-%d %H:%M)"
+}
