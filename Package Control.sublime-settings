@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"Better CoffeeScript",
 		"CSS Format",
 		"CSSTidy",
+		"CSV Record View",
 		"DashDoc",
 		"Diffy",
 		"Git",
@@ -15,11 +17,13 @@
 		"GitStatusBar",
 		"Google Spell Check",
 		"HTMLBeautify",
+		"Indent XML",
 		"JsFormat",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"Package Control",
 		"PlainTasks",
 		"Pretty JSON",
+		"rainbow_csv",
 		"SideBarEnhancements",
 		"Theme - Soda"
 	]
